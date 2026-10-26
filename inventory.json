@@ -1,10 +1,50 @@
 {
   "dealership": "Nanaimo Toyota",
-  "generated_at": "2026-10-25T15:04:47",
-  "vehicle_count": 213,
+  "generated_at": "2026-10-26T00:44:01",
+  "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Toyota Corolla Cross 4dr Awd Xlein Nanaimo",
+      "vin": "7MUDAABG0TV212239",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/818ef7536b0f.html",
+      "condition": "new",
+      "price": 41548.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 4dr Awd Xlein Nanaimo",
+      "vin": "2T36CRAV4TW112039",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/d3c215549125.html",
+      "condition": "new",
+      "price": 44363.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 4dr Awd Xlein Nanaimo",
+      "vin": "2T36CRAV5TW116973",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/4b6fceab51de.html",
+      "condition": "new",
+      "price": 44363.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 4dr Awd Xlein Nanaimo",
+      "vin": "2T36CRAV1TW117098",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/54d38847442e.html",
+      "condition": "new",
+      "price": 44713.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma 4wd Dbl Atin Nanaimo",
+      "vin": "3TYLB5JN0TT143597",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/28e52b7c3c5b.html",
+      "condition": "new",
+      "price": 74530.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Toyota Tundra 4x4 Crewmax Limitedin Nanaimo",
       "vin": "5TFWA5DBXTX399883",
@@ -19,6 +59,38 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/ca136882a805.html",
       "condition": "new",
       "price": 94349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Corolla 4dr Hyb Awd Cvt Lein Nanaimo",
+      "vin": "JTDBDMHE4V3040849",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/cbaeb0de0710.html",
+      "condition": "new",
+      "price": 32973.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Corolla 5dr Cvtin Nanaimo",
+      "vin": "JTNK4MBE3V3277918",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/7c9be64a9bea.html",
+      "condition": "new",
+      "price": 30561.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius 4dr At Sein Nanaimo",
+      "vin": "JTDACACU0V3087534",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/0ddb3f26516e.html",
+      "condition": "new",
+      "price": 44073.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius 4dr At Sein Nanaimo",
+      "vin": "JTDACACU4V3087584",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/ec1e3a9b6c68.html",
+      "condition": "new",
+      "price": 44073.0,
       "price_currency": "CAD"
     },
     {
@@ -51,7 +123,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 15995.0,
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
@@ -62,7 +134,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 15995.0,
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
@@ -172,7 +244,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "condition": "used",
-      "price": 43995.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
