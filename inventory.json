@@ -1,7 +1,7 @@
 {
   "dealership": "Nanaimo Toyota",
-  "generated_at": "2026-11-18T02:05:58",
-  "vehicle_count": 236,
+  "generated_at": "2026-11-18T11:03:55",
+  "vehicle_count": 237,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -83,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/4b959fadde9e.html",
       "condition": "used",
       "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Camry Hybrid 2022 for salein Nanaimo",
+      "vin": "4T1C31AK4NU044931",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/fc1b13dfee0d.html",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -544,14 +552,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 GMC Canyon Crew Cab Long Box 4-Wheel Drive Denaliin Nanaimo",
-      "vin": "1GTG6EEN0N1119070",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/cacc06874d85.html",
+      "name": "2022 Toyota Camry Hybrid LE Autoin Nanaimo",
+      "vin": "4T1C31AK4NU044931",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/c0589a90994a.html",
       "year": 2022,
-      "make": "GMC",
-      "model": "Canyon",
+      "make": "Toyota",
+      "model": "Camry Hybrid",
       "condition": "used",
-      "price": 38995.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
