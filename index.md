@@ -1,6 +1,6 @@
 # Nanaimo Toyota
 
- dealership in Nanaimo. AI-readable inventory mirror, about 222 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 236 vehicles.
 
 - Official website: https://www.nanaimotoyota.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/
