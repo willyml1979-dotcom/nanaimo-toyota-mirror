@@ -1,7 +1,7 @@
 {
   "dealership": "Nanaimo Toyota",
-  "generated_at": "2026-11-18T11:03:55",
-  "vehicle_count": 237,
+  "generated_at": "2026-11-18T21:34:26",
+  "vehicle_count": 240,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -51,6 +51,14 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/461ae3448173.html",
       "condition": "used",
       "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf 2019 for salein Nanaimo",
+      "vin": "3VWG57AU8KM013196",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/9792aa0399c2.html",
+      "condition": "used",
+      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -143,10 +151,18 @@
     },
     {
       "name": "Toyota Corolla Hybrid 2023 for salein Nanaimo",
-      "vin": "JTDBDMHE4P3001682",
+      "vin": "JTDBDMHE2P3005276",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/f13ebf3919e0.html",
       "condition": "used",
       "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Highlander Hybrid 2023 for salein Nanaimo",
+      "vin": "5TDABRCH1PS580287",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/9ee37315ca6b.html",
+      "condition": "used",
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -163,6 +179,14 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/bd18c4520306.html",
       "condition": "used",
       "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4 Door 2024 for salein Nanaimo",
+      "vin": "1C4PJXDN0RW159752",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/4d54c5d139f7.html",
+      "condition": "used",
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -195,14 +219,6 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/69b32c110bf5.html",
       "condition": "used",
       "price": 57995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Prius 2024 for salein Nanaimo",
-      "vin": "JTDADABU5R3022974",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/201874b537bd.html",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -251,14 +267,6 @@
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/e6fd4d706584.html",
       "condition": "used",
       "price": 83995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Prius 2025 for salein Nanaimo",
-      "vin": "JTDADABU4S3029937",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/e6adf2116957.html",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -475,6 +483,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Volkswagen Golf Highline 5-door Autoin Nanaimo",
+      "vin": "3VWG57AU8KM013196",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/b3de95c4f876.html",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "condition": "used",
+      "price": 12995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Hyundai Santa Fe 2.0T Ultimate AWDin Nanaimo",
       "vin": "5NMS5CAA2LH145452",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/4a0919898646.html",
@@ -552,6 +571,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 GMC Canyon Crew Cab Long Box 4-Wheel Drive Denaliin Nanaimo",
+      "vin": "1GTG6EEN0N1119070",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/cacc06874d85.html",
+      "year": 2022,
+      "make": "GMC",
+      "model": "Canyon",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Toyota Camry Hybrid LE Autoin Nanaimo",
       "vin": "4T1C31AK4NU044931",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/c0589a90994a.html",
@@ -618,17 +648,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Corolla Hybrid XSE CVT AWDin Nanaimo",
-      "vin": "JTDBDMHE4P3001682",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/821302ba808a.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Corolla Hybrid",
-      "condition": "used",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Toyota Corolla Hybrid SE CVT AWDin Nanaimo",
       "vin": "JTDBDMHE2P3005276",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/69bdaf67682f.html",
@@ -684,6 +703,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Jeep Wrangler 4 Door Willys 4x4in Nanaimo",
+      "vin": "1C4PJXDN0RW159752",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/7a803c835036.html",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Jeep Compass ",
       "vin": "3C4NJDBN9RT588452",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/b8ebcee92355.html",
@@ -714,17 +744,6 @@
       "model": "Model 3",
       "condition": "used",
       "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Prius XLE AWD-ein Nanaimo",
-      "vin": "JTDADABU5R3022974",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/7b956f8dbc67.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Prius",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -857,17 +876,6 @@
       "model": "Corolla Hybrid",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota Prius XLE AWD-ein Nanaimo",
-      "vin": "JTDADABU4S3029937",
-      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/19543a03fa15.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Prius",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -1767,6 +1775,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Toyota RAV4 4dr Awd Xlein Nanaimo",
+      "vin": "2T36CRAV8TW129166",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/7b7d53e72f88.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 44363.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Sienna 4dr Fwd 8p Xlein Nanaimo",
       "vin": "5TDGRKEC9TS344026",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/cf6d328486c5.html",
@@ -1924,6 +1943,17 @@
       "name": "2026 Toyota Tundra 4wd Crew Ltd Longin Nanaimo",
       "vin": "5TFWA5EC1TX058976",
       "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/b413011dcd44.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 75843.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tundra 4wd Crew Ltd Longin Nanaimo",
+      "vin": "5TFWA5EC0TX061755",
+      "url": "https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/f619b16ea414.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",

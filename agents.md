@@ -7,7 +7,7 @@ Nanaimo Toyota is a  dealership in Nanaimo. This site is an AI-readable mirror o
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/ (about 237 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/new/ (about 240 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/nanaimo-toyota-mirror/llms.txt
